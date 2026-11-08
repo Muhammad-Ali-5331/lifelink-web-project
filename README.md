@@ -118,7 +118,3 @@ php scripts/create_admin.php
 # Insert optional demo records
 php scripts/seed_demo.php
 ```
-
-## License
-
-Add your project license details here (for example: MIT).
