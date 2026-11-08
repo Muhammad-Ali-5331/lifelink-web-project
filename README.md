@@ -2,6 +2,11 @@
 
 LifeLink is a PHP + MySQL web application that helps blood requesters find compatible donors in the same city, while keeping donor contact details private until an offer is accepted.
 
+## Authors
+
+* **Muhammad Ali** - *Roll No: BCSF24A022*
+* **Babur Ali** - *Roll No: BCSF24A006*
+
 ## Features
 
 - Role-based flows for **donor**, **requester**, and **admin**
